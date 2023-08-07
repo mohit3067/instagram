@@ -1,6 +1,6 @@
 # instagram
 
-A new Flutter project.
+It is the clone version of the Instagram, which has a user authentication and it also shows the posts of the followers it has a signout functionality too in the application and also it has a great and friendly UI, this app is also work in mobile and web(chrome).
 
 ## Getting Started
 
